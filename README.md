@@ -35,6 +35,6 @@ ZSH_THEME='agnoster'
 Find it in the repo and choose the font in iTerm2.
 
 **Install a color scheme**
-Install the Aphelion-Solarized.itermcolors from the repo. 
+Install the Perihelion-Solarized.itermcolors from the repo. 
 
 
