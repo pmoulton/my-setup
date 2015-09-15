@@ -32,9 +32,9 @@ ZSH_THEME='agnoster'
 
 **Install the patched monaco powerline font**
 
-Find it in the repo and choose the font in iTerm2.
+Download it from [here](https://gist.github.com/baopham/1838072).
 
 **Install a color scheme**
-Install the Perihelion-Solarized.itermcolors from the repo. 
+Choose solarized light or solarized dark.
 
 
